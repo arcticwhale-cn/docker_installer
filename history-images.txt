@@ -6,3 +6,6 @@ stirlingtools/stirling-pdf:1.1.1
 seafileltd/seafile-mc:13.0.11
 mariadb:10.5
 memcached:1.6
+seafileltd/seafile-mc:12.0.14
+memcached:1.6.18
+mariadb:10.11
