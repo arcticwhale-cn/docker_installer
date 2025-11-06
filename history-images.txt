@@ -1,4 +1,5 @@
 milvusdb/milvus:v2.5.21-20251105-ec5189f9-arm64
+--platform=linux/arm64/v8 milvusdb/milvus:v2.6.4
 
 suziwen/dragon:1.6.1
 
