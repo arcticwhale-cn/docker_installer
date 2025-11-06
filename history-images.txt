@@ -1,3 +1,7 @@
+milvusdb/milvus:v2.5.21-20251105-ec5189f9-arm64
+
+suziwen/dragon:1.6.1
+
 infiniflow/ragflow:v0.17.2-slim
 
 twang2218/gitlab-ce-zh:11.1.4
