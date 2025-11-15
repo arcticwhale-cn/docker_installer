@@ -1,3 +1,5 @@
+postgres:17
+clickhouse/clickhouse-server:25.8
 redis:5.0.7
 
 --platform=linux/arm64 langfuse/langfuse-worker:3.129.0
