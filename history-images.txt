@@ -1,5 +1,7 @@
+--platform=linux/arm64 elasticsearch:8.11.3
+elasticsearch:8.17.0
+
 --platform=linux/arm64 mysql:8.0.39
---platform=linux/arm64 mysql:5.7.44
 --platform=linux/arm64 mariadb:10.11
 
 elasticsearch:8.11.3
