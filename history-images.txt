@@ -1,3 +1,17 @@
+--platform=linux/arm64 python:3.10.19-slim
+--platform=linux/arm64 python:3.12.12-slim
+--platform=linux/arm64 python:3.11.14-slim
+--platform=linux/arm64 continuumio/anaconda3:2024.10-1
+--platform=linux/arm64 jupyter/scipy-notebook:python-3.11
+--platform=linux/arm64 jupyter/scipy-notebook:python-3.10.11
+python:3.10.19-slim
+python:3.12.12-slim
+python:3.11.14-slim
+continuumio/anaconda3:2024.10-1
+jupyter/scipy-notebook:python-3.11
+jupyter/scipy-notebook:python-3.10.11
+
+
 --platform=linux/arm64 elasticsearch:8.18.8
 elasticsearch:8.18.8
 
