@@ -1,7 +1,11 @@
 --platform=linux/arm64/v8 nginx:1.29.3
+--platform=linux/arm64/v8 ubuntu:24.04
+--platform=linux/arm64/v8 ubuntu:22.04
 --platform=linux/arm64 nacos/nacos-server:v2.5.2
 --platform=linux/arm64 nacos/nacos-server:v3.1.0
 nginx:1.29.3
+ubuntu:24.04
+ubuntu:22.04
 nacos/nacos-server:v2.5.2
 nacos/nacos-server:v3.1.0
 
