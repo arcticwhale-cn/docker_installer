@@ -1,5 +1,13 @@
+--platform=linux/arm64/v8 nginx:1.29.3
+--platform=linux/arm64 nacos/nacos-server:v2.5.2
+--platform=linux/arm64 nacos/nacos-server:v3.1.0
+nginx:1.29.3
+nacos/nacos-server:v2.5.2
+nacos/nacos-server:v3.1.0
+
+
 --platform=linux/arm64 python:3.10.19-slim
---platform=linux/arm64 python:3.12.12-slim
+--platform=linux/arm64/v8 python:3.12.12-slim
 --platform=linux/arm64 python:3.11.14-slim
 --platform=linux/arm64 continuumio/anaconda3:2024.10-1
 --platform=linux/arm64 jupyter/scipy-notebook:python-3.11
