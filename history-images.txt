@@ -1,3 +1,8 @@
+redis/redis-stack:7.4.0-v8
+redis/redis-stack-server:7.4.0-v8
+--platform=linux/arm64 redis/redis-stack:7.4.0-v8
+--platform=linux/arm64 redis/redis-stack-server:7.4.0-v8
+
 sameersbn/bind:9.16.1-20200524
 
 --platform=linux/arm64 jupyter/scipy-notebook:python-3.11.6
