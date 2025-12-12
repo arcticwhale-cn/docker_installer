@@ -1,3 +1,6 @@
+oceanbase/seekdb:1.0.0.0-100000262025111218
+--platform=linux/arm64 oceanbase/seekdb:1.0.0.0-100000262025111218
+
 redis/redis-stack:7.4.0-v8
 redis/redis-stack-server:7.4.0-v8
 --platform=linux/arm64 redis/redis-stack:7.4.0-v8
