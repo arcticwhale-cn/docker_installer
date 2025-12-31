@@ -1,4 +1,5 @@
-
+alpine:3.23.2
+--platform=linux/arm64/v8 alpine:3.23.2
 
 
 oceanbase/seekdb:1.0.0.0-100000262025111218
