@@ -1,3 +1,5 @@
+--platform=linux/arm64 opengauss/opengauss:7.0.0-RC2.B015
+
 alpine:3.23.2
 --platform=linux/arm64/v8 alpine:3.23.2
 
