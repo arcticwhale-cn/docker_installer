@@ -1,4 +1,4 @@
---platform=linux/arm64 opengauss/opengauss:7.0.0-RC2.B015
+--platform=linux/arm64 enmotech/opengauss:6.0.0
 
 alpine:3.23.2
 --platform=linux/arm64/v8 alpine:3.23.2
@@ -25,7 +25,7 @@ jupyter/scipy-notebook:python-3.11.6
 --platform=linux/arm64/v8 ubuntu:24.04
 --platform=linux/arm64/v8 ubuntu:22.04
 --platform=linux/arm64/v8 redis:8.4.0
---platform=linux/arm64 nacos/nacos-server:v2.5.2
+--platform=linux/arm64 nacos/-server:v2.5.2
 --platform=linux/arm64 nacos/nacos-server:v3.1.0
 nginx:1.29.3
 ubuntu:24.04
