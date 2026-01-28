@@ -1,3 +1,9 @@
+nacos/nacos-server:v2.5.2
+nacos/nacos-server:v3.1.0
+--platform=linux/arm64 nacos/nacos-server:v3.1.1
+--platform=linux/arm64 nacos/-server:v2.5.2
+--platform=linux/arm64 nacos/nacos-server:v3.1.0
+
 --platform=linux/arm64 enmotech/opengauss:6.0.0
 
 alpine:3.23.2
@@ -25,15 +31,11 @@ jupyter/scipy-notebook:python-3.11.6
 --platform=linux/arm64/v8 ubuntu:24.04
 --platform=linux/arm64/v8 ubuntu:22.04
 --platform=linux/arm64/v8 redis:8.4.0
---platform=linux/arm64 nacos/-server:v2.5.2
---platform=linux/arm64 nacos/nacos-server:v3.1.0
+
 nginx:1.29.3
 ubuntu:24.04
 ubuntu:22.04
 redis:8.4.0
-nacos/nacos-server:v2.5.2
-nacos/nacos-server:v3.1.0
-
 
 --platform=linux/arm64 python:3.10.19-slim
 --platform=linux/arm64/v8 python:3.12.12-slim
@@ -49,14 +51,13 @@ jupyter/scipy-notebook:python-3.11
 jupyter/scipy-notebook:python-3.10.11
 
 
---platform=linux/arm64 elasticsearch:8.18.8
-elasticsearch:8.18.8
-
---platform=linux/arm64 elasticsearch:8.18.5
-elasticsearch:8.18.5
-
---platform=linux/arm64 elasticsearch:8.11.3
 elasticsearch:8.17.0
+elasticsearch:8.18.8
+elasticsearch:8.18.5
+--platform=linux/arm64 elasticsearch:8.18.8
+--platform=linux/arm64 elasticsearch:8.18.5
+--platform=linux/arm64 elasticsearch:8.11.3
+
 
 --platform=linux/arm64 mysql:8.0.39
 --platform=linux/arm64 mariadb:10.11
