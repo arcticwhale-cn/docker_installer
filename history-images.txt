@@ -1,3 +1,6 @@
+openzipkin/zipkin:3
+--platform=linux/arm64 openzipkin/zipkin:3
+
 --platform=linux/arm64 zmister/mrdoc:v9.3
 
 nacos/nacos-server:v2.5.2
